@@ -2,7 +2,7 @@
 <!--https://github.com/inttter/md-badges -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=300&color=6AFF00&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%96%A5%EF%B8%8F+%E2%96%88+Vivek+Yadav+%E2%96%88+Senior+Security+Expert+%2F+Offsec+Specialist;%E2%9A%A1+Product+Security+at+HackerOne+%7C+AI+Security+Researcher;%F0%9F%91%8D+Thanks+for+Visiting!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=300&color=6AFF00&center=true&vCenter=true&random=false&width=700&lines=%F0%9F%96%A5%EF%B8%8F+%E2%96%88+Vivek+Yadav+%E2%96%88+Senior+Security+Expert;%E2%9A%A1+Product+Security+at+HackerOne+%7C+AI+Security+Researcher;%F0%9F%91%8D+Thanks+for+Visiting!" alt="Typing SVG" />
 </p>
 
 <div align="center">
