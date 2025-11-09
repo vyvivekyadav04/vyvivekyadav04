@@ -76,7 +76,6 @@
 - **SharpScan**, **HotshotBot** - Automated Recon Tools  
 - **InstaBot**, **Spy Chat** - Original Security Bots  
 - Web3 Smart Contract Analysis - Exploit & Audit scripts  
-- Hindi Poetry Meter Detector (LLM/AI powered)
 
 
 ## 📊 Stats & Graphs
